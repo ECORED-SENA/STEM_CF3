@@ -1,10 +1,9 @@
 export default {
   global: {
-    componenteFormativo:
-      'Componente Formativo con un nombre extremadamente largo y extenso',
+    componenteFormativo: 'Habilidades para desarrollar en el siglo XXI',
     descripcionCurso:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean convallis vestibulum quam bibendum varius.<br/><br/>Quisque pretium at nulla sit amet placerat. Vestibulum consequat suscipit accumsan. Proin pharetra congue enim et tempus. Sed sodales dui volutpat, placerat tellus accumsan, semper est. Phasellus nec lorem elementum, mattis quam eget, vestibulum nibh. Sed.',
-    imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
+      'La formación de capacidades y habilidades es una tarea urgente, en un mundo cada vez más interconectado y con altos niveles de interacción entre distintos espacios mundiales. El proceso de alfabetización tecnológica cobra cada vez más importancia, para incorporar de manera rápida y efectiva a los ciudadanos a las nuevas formas de empleo, estudio y relaciones sociales con la ayuda de los sistemas de información y comunicación TIC',
+    imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },
   menuPrincipal: {
