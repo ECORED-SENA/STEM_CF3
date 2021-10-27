@@ -17,14 +17,14 @@
             img.img-300(src='@/assets/tema1/img-23.svg')
 
 
-    .titulo-segundo
+    #t_3_1.titulo-segundo
       h2 3.1 Conceptos Básicos: ¿Qué es la Tecnología?
 
     .row.mb-5.justify-content-around
       .col-lg-4      
         figure
           img.img-380(src='@/assets/tema1/img-24.svg')
-      .col-lg-8.fnd-1-.align-self-end.py-4.px-5
+      .col-lg-8.fnd-1-1.align-self-end.py-4.px-5
 
         p.text-white La tecnología busca resolver problemas y satisfacer necesidades individuales y sociales, transformando el entorno y la naturaleza mediante la utilización racional, crítica y creativa de recursos y conocimientos. Según afirma la Organización para la Cooperación y el Desarrollo Económico – OECD y su Consejo Nacional de Investigación en el año 2002, la mayoría de la gente suele asociar la tecnología simplemente con artefactos como computadoras y software, aviones, pesticidas, plantas de tratamiento de agua, píldoras anticonceptivas y hornos microondas, por mencionar unos pocos ejemplos. Sin embargo, la tecnología es mucho más que sus productos tangibles. Otros aspectos igualmente importantes son el conocimiento y los procesos necesarios para crear y operar esos productos, tales como la ingeniería del saber cómo y el pensamiento de diseño, la experticia de la manufactura y las diversas habilidades técnicas
         .row.b-w 
@@ -49,11 +49,12 @@
 
     separador
 
-    .titulo-segundo
+    #t_3_2.titulo-segundo
       h2 3.2  La Tecnología y la Informática
+
     .row
       .col-lg-12
-        figure.mb-0 
+        figure.mb-3 
           img(src='@/assets/tema1/img-26.png')
 
       .row.justify-content-around.align-items-center
@@ -73,24 +74,111 @@
           separador
 
 
-    .titulo-segundo
+    #t_3_3.titulo-segundo
       h2 3.3 Competencias para educación en Tecnología
 
-    p.mb-5 aqui falta, no lo hize 
 
-    .row
-          
-      .col-md-6
+    .row.mb-0.fnd-5.justify-content-around.align-items-center 
+      .col-lg-8.p-5
+        p.text-white En Colombia la enseñanza de las competencias para la educación en tecnología está organizadas en cuatro componentes básicos interconectados. De ahí que sea necesaria una lectura transversal para su posterior concreción en el plan de estudios. Esta forma de organización facilita una aproximación progresiva al conocimiento tecnológico por parte de los estudiantes y orienta el trabajo de los docentes en el aula. 
 
-        p Naturaleza y evolución de la Tecnología
+        p.text-white Los componentes que se describen a continuación están presentes en cada uno de los grupos de grados:
 
-        p Se refiere a las características y objetivos de la tecnología, a sus conceptos fundamentales (sistema, componente, estructura, función, recurso, optimización, proceso, etc.), a sus relaciones con otras disciplinas y al reconocimiento de su evolución a través de la historia y la cultura.
-
-
-
-      .col-md-6.mb-4.mb-md-0
+      .col-lg-4
         figure
-        img.img-300(src='@/assets/tema1/img-28.svg')    
+          img.img-380(src='@/assets/tema1/img-28.svg')
+
+    TabsB.color-acento-contenido.mb-5
+      .py-4.py-md-5(titulo="Naturaleza y Evolución" :icono="require('@/assets/tema1/img-29.svg')")
+        .row.justify-content-around.align-items-center.py-5
+          .col-lg-10      
+            .row      
+              .col-md-6.mb-4.mb-md-0.align-self-center
+                h4 Naturaleza y evolución de la Tecnología
+                p Se refiere a las características y objetivos de la tecnología, a sus conceptos fundamentales (sistema, componente, estructura, función, recurso, optimización, proceso, etc.), a sus relaciones con otras disciplinas y al reconocimiento de su evolución a través de la historia y la cultura.
+            
+              .col-md-6
+                figure
+                  img.img-380(src='@/assets/tema1/img-33.svg', alt='Texto que describa la imagen')
+
+      .py-4.py-md-5(titulo="Apropiación y Uso" :icono="require('@/assets/tema1/img-30.svg')")
+        .row.justify-content-around.align-items-center.py-5
+          .col-lg-10
+            .row
+              .col-md-6.mb-4.mb-md-0.align-self-center
+                h4 Apropiación y Uso de la Tecnología
+                p Se trata de la utilización adecuada, pertinente y crítica de la tecnología (artefactos, productos, procesos y sistemas) con el fin de optimizar, aumentar la productividad, facilitar la realización de diferentes tareas y potenciar los procesos de aprendizaje, entre otros.
+            
+              .col-md-6
+                figure
+                  img.img-380(src='@/assets/tema1/img-34.svg', alt='Texto que describa la imagen')
+
+
+      .py-4.py-md-5(titulo="Solucion de problemas" :icono="require('@/assets/tema1/img-31.svg')")
+        .row.justify-content-around.align-items-center.py-5
+          .col-lg-10      
+            .row
+              .col-md-6.mb-4.mb-md-0.align-self-center
+                h4 Solución de Problemas con Tecnología
+                p Se refiere al manejo de estrategias en y para la identificación, formulación y solución de problemas con tecnología, así como para la jerarquización y comunicación de ideas. Comprende estrategias que van desde la detección de fallas y necesidades, hasta llegar al diseño y a su evaluación. Utiliza niveles crecientes de complejidad según el grupo de grados de que se trate.
+            
+              .col-md-6
+                figure
+                  img.img-380(src='@/assets/tema1/img-35.svg', alt='Texto que describa la imagen')
+
+      .py-4.py-md-5(titulo="Tecnología y Sociedad" :icono="require('@/assets/tema1/img-32.svg')")
+        .row.justify-content-around.align-items-center.py-5
+          .col-lg-10      
+            .row
+              .col-md-6.mb-4.mb-md-0.align-self-center
+                h4 Tecnología y Sociedad, trata tres aspectos:
+                p Se refiere al manejo de estrategias en y para la identificación, formulación y solución de problemas con tecnología, así como para la jerarquización y comunicación de ideas. Comprende estrategias que van desde la detección de fallas y necesidades, hasta llegar al diseño y a su evaluación. Utiliza niveles crecientes de complejidad según el grupo de grados de que se trate.
+            
+              .col-md-6
+                figure
+                  img.img-380(src='@/assets/tema1/img-36.svg', alt='Texto que describa la imagen')
+
+    separador        
+
+    #t_3_4.titulo-segundo
+      h2 3.4 La Alfabetización en Tecnología
+
+    .row.mb-5
+
+      .col-md-6.mb-4.mb-md-5.fnd-a.p-4 
+        figure.mb-4
+          img.img-150(src='@/assets/tema1/img-37.svg') 
+
+        p.p-4.text-white La alfabetización es hoy en día uno de los derechos fundamentales de todo ser humano. Aunque el término suele asociarse inicialmente con las competencias para la lectura y la escritura como vía de inserción de los pueblos en la cultura, actualmente este concepto implica también entender, reflexionar y desarrollar competencias para la comprensión y la solución de problemas de la vida cotidiana. La alfabetización se extiende, por consiguiente, a las ciencias, a las matemáticas y a la tecnología, y se relaciona con la capacidad para identificar, comprender y utilizar los conocimientos propios de estos campos. Una mirada a lo que se ha planteado como deseable para la formación en tecnología en el mundo actual, permite reiterar su importancia en la educación básica y media.
+
+      .col-md-6.mb-4.mb-md-5.fnd-v.p-4
+        figure.mb-4
+          img.img-150(src='@/assets/tema1/img-38.svg') 
+
+        p.p-4 La alfabetización tecnológica es un propósito inaplazable de la educación porque con ella se busca que individuos y grupos estén en capacidad de comprender, evaluar, usar y transformar objetos, procesos y sistemas tecnológicos, como requisito para su desempeño en la vida social y productiva. En otras palabras, y con el propósito de reiterar su relevancia en la educación, “el desarrollo de actitudes científicas y tecnológicas tiene que ver con las habilidades que son necesarias para enfrentarse a un ambiente que cambia rápidamente y que son útiles para resolver problemas, proponer soluciones y tomar decisiones sobre la vida diaria”
+
+    p Unesco. Informe de seguimiento de la educación para todos en el mundo, 2005        
+
+    separador 
+
+    #t-3_5.titulo-segundo
+      h2 3.5  El sentido de Alfabetizar en tecnológica para la innovación y la creatividad        
+
+    .bloque-texto-a.b-t-a.degra.color-secundario.mb-5(data-aos="flip-right") 
+      .row.m-0.align-items-center.justify-content-between
+        .col-lg-4.mb-4.mb-lg-0
+          figure
+            img.img-500(src='@/assets/tema1/img-39.svg')
+        .col-lg-8            
+          .row.justify-content-end
+            .col-lg-12
+              .bloque-texto-a__texto.btat.p-4.mb-5
+                p.text-white Finalmente, es importante recordar que la propuesta de alfabetizar en tecnología es buscar interrelacionar las tres dimensiones interdependientes: el conocimiento, las formas de pensar y la capacidad para actuar. La meta entonces la alfabetización tecnológica es proveer a las personas de herramientas para participar asertivamente en su entorno social de manera fundamentada. .        
+            .col-lg-10.justify-content-end
+              p.mb-3 Esta ruta que propone el gobierno colombiano está directamente relacionada con la educación STEM que busca las asignaturas de ciencia, tecnología con ingeniería y las matemáticas, presentando cambios en la forma en que se debe enseñar más acorde a la forma en que se ve la realidad actual, donde los avances tecnológicos son tan amplios que no se alcanza a asimilar todos los impactos en la sociedad.
+
+
+ 
 
 
 

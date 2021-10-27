@@ -7,7 +7,7 @@
       .titulo-principal__numero
         span 2
       h1 Educación para el siglo XXI
-    .row.mb-5.fnd-5.justify-content-around.align-items-center 
+    .row.mb-5.fnd-5.justify-content-around.align-items-center(data-aos="flip-up") 
       .col-lg-8.p-5
         p.text-white En la actualidad del siglo XXI se vive en un mundo hiperconectado con diversos y grandes problemas que a veces parece no se logran resolver; sin embargo, el avance y desarrollo de la ciencia y tecnología dejan cada vez más sorprendida a la humanidad, ya que se abren nuevas formas y horizontes para interactuar en la sociedad, dentro de los grandes desarrollos que en la actualidad se presentan están los viajes interplanetarios a marte, la posibilidad de abandonar los combustibles fósiles con las energías limpias que no sigan contaminando el planeta y la gran oportunidad de tener una sociedad cada vez más interconectada y existen muchos otros desarrollos de innovación y creatividad que podríamos mencionar, pero lo más importante para este nuevo siglo XXI, son las nuevas generaciones de ciudadanos que debemos preparar para una sociedad que cumpla con los 17 objetivos de desarrollo sostenible.
       .col-lg-4
@@ -48,7 +48,7 @@
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/E7-BaX6ox9s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     br    
-    .titulo-segundo
+    #t_2_1.titulo-segundo
       h2 2.1  Definición del nuevo entorno mundial y la supervivencia humana
 
     .row.mb-5.justify-content-around.fnd-7
@@ -79,7 +79,7 @@
 
         .col-lg-8.align-self-center
 
-          .bloque-texto-e.color-secundario.p-4
+          .bloque-texto-e.p-4
             .bloque-texto-e__texto
               i.fas.fa-quote-left
               p.text-white El doctor Rockstrom expresa que todo los seres vivos del planeta están interconectados, y aclara que la tierra no es infinita en recursos naturales como se pensaba en siglos anteriores y tiene unos límites planetarios que enmarca en nueve conceptos: la integridad de la biosfera, el ciclo biogeoquímico, los cambios en el sistema de las tierras, el uso del agua dulce, la acidificación de los océanos, el agotamiento del ozono estratosférico, cambio climático, entre otras entidades tecnológicas nuevas que puedan aparecer, todos estos límites hacen relevancia a las diferentes incidencias del ser humano en el planeta afectándolo y que describe que al llegar a sobrepasar estos umbrales cambiarían de forma drástica el desarrollo y la vida en el planeta y por lo tanto la permanencia de la sociedad humana. 
@@ -125,7 +125,7 @@
 
     separador
 
-    .titulo-segundo
+    #t_2_2.titulo-segundo
       h2 2.2  Contexto social y cultural y el nuevo entorno mundial
 
     .tarjeta.tarjeta--azul.fnd-5.p-4.mb-5
@@ -148,12 +148,12 @@
 
     separador
 
-    .titulo-segundo
+    #t_2_3.titulo-segundo
       h2 2.3  Nuevos ambientes de aprendizaje.        
 
     .bloque-texto-a.b-t-a.degra.color-secundario.p-4.p-md-5.mb-5(data-aos="flip-right") 
-      .row.m-0.align-items-center.justify-content-between
-        .col-lg-4.mb-4.mb-lg-0
+      .row.m-0
+        .col-lg-4.mb-lg-0
           figure
             img(src='@/assets/tema1/img-22.svg')
         .col-lg-8            
