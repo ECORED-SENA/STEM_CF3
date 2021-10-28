@@ -47,6 +47,7 @@
           img.img-380(src='@/assets/tema1/img-25.svg')
 
 
+
     separador
 
     #t_3_2.titulo-segundo
