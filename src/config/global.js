@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Habilidades para desarrollar en el siglo XXI',
     descripcionCurso:
-      'La formación de capacidades y habilidades es una tarea urgente, en un mundo cada vez más interconectado y con altos niveles de interacción entre distintos espacios mundiales. El proceso de alfabetización tecnológica cobra cada vez más importancia, para incorporar de manera rápida y efectiva a los ciudadanos a las nuevas formas de empleo, estudio y relaciones sociales con la ayuda de los sistemas de información y comunicación TIC',
+      'La formación de capacidades y habilidades es una tarea urgente, en un mundo cada vez más interconectado y con altos niveles de interacción entre distintos espacios mundiales. El proceso de alfabetización tecnológica cobra cada vez más importancia, para incorporar de manera rápida y efectiva a los ciudadanos a las nuevas formas de empleo, estudio y relaciones sociales con la ayuda de los sistemas de información y comunicación TIC.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },
@@ -23,13 +23,13 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Identificación y cierre de brechas para el capital humano',
+        titulo: 'Capital humano',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: 'Capital humano',
+            titulo: 'Identificación del capital humano',
             hash: 't_1_1',
           },
           {
@@ -73,19 +73,19 @@ export default {
         icono: 'far fa-file-alt',
         numero: '3',
         titulo:
-          'La Tecnología y las habilidades para la sociedad del conocimiento ',
+          'La tecnología y las habilidades para la sociedad del conocimiento ',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '3.1',
-            titulo: 'Conceptos básicos: ¿Qué es la tecnología?',
+            titulo: 'Conceptos básicos: ¿qué es la tecnología?',
             hash: 't_3_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '3.2',
-            titulo: 'La Tecnología y la Informática',
+            titulo: 'La tecnología y la informática',
             hash: 't_3_2',
           },
           {
@@ -105,7 +105,7 @@ export default {
             icono: 'far fa-file-alt',
             numero: '3.5',
             titulo:
-              'El sentido de Alfabetizar en tecnológica para la innovación y la creatividad',
+              'El sentido de alfabetizar en tecnología para la innovación y la creatividad',
             hash: 't_3_5',
           },
         ],
@@ -160,7 +160,7 @@ export default {
     },
     {
       referencia:
-        'Consejo nacional, d. I. (2012). Investigación en educación basada en disciplinas: comprensión y mejora del aprendizaje en ciencias e ingeniería de pregrado. National Research Council of the National Academies.',
+        'Consejo Nacional, D. I. (2012). Investigación en educación basada en disciplinas: comprensión y mejora del aprendizaje en ciencias e ingeniería de pregrado.<em> National Research Council of the National Academies.</em>',
     },
     {
       referencia:
@@ -168,7 +168,7 @@ export default {
     },
     {
       referencia:
-        'Katzenmeyer, C. y. (2006). Perspectivas de la Fundación Nacional de Ciencias sobre la naturaleza de la evaluación del programa STEM. Nuevas direcciones para la evaluación, 109, 7-18.',
+        'Katzenmeyer, C. Y. (2006). Perspectivas de la Fundación Nacional de Ciencias sobre la naturaleza de la evaluación del programa STEM. Nuevas direcciones para la evaluación, 109, 7-18.',
     },
     {
       referencia:
@@ -192,11 +192,11 @@ export default {
     },
     {
       referencia:
-        'Traig, J. (. (2015). STEM to Story: Enthralling and Effective Lesson Plans for Grades 5-8. Jossey-Bass. (Ed.).',
+        'Traig, J.  (2015).<em> STEM to Story: Enthralling and Effective Lesson Plans for Grades 5-8.</em> Jossey-Bass. (Ed.).',
     },
     {
       referencia:
-        'Vasquez, J. A.; Comer, M; & Sneider C. (2013). STEM lesson essentials, grades 3-8: Integrating science, technology, engineering, and mathematics. Portsmouth, NH: Heinemann. 58-76.',
+        'Vasquez, J. A.; Comer, M. & Sneider C. (2013). <em>STEM lesson essentials, grades 3-8: Integrating science, technology, engineering, and mathematics. Portsmouth, NH: Heinemann. 58-76.</em>',
     },
   ],
   glosario: [
@@ -206,7 +206,7 @@ export default {
         'Son aquellas habilidades, capacidades y conocimientos que una persona tiene para cumplir eficientemente determinada tarea. Las competencias son características que capacitan a alguien en un determinado campo.',
     },
     {
-      termino: 'Capital Humano',
+      termino: 'Capital humano',
       significado:
         'Es una medida del valor económico de las habilidades profesionales de una persona.',
     },
@@ -223,19 +223,20 @@ export default {
   ],
   complementario: [
     {
-      texto: 'Identificación y cierre de brechas para el capital humano',
+      texto:
+        'MEN. (2008). ¡Ser competente en Tecnología: una necesidad para el desarrollo!',
       tipo: 'Cartilla',
-      link:
-        'https://www.mineducacion.gov.co/1621/articles-160915_archivo_pdf.pdf',
+      descarga: '/downloads/articles-160915_archivo.pdf',
     },
     {
-      texto: 'Definición del nuevo entorno mundial y la supervivencia humana',
+      texto:
+        'Breaking Boundaries: The Science of Our Planet | Official Trailer | Netflix. [Video]. Youtube.',
       tipo: 'Documental',
       link: 'https://youtu.be/Gb6wQtNjblk ',
     },
     {
       texto:
-        'La Tecnología y las habilidades para la sociedad del conocimiento',
+        'Canal Salesianos S.S.M. (2012) Educación en el siglo XXI. Nuevas necesidades ¿nuevos retos? [Video]. Youtube.',
       tipo: 'Video',
       link: 'https://youtu.be/L6MNTXi82GM',
     },
@@ -256,31 +257,31 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Iván M González',
+        nombre: 'Iván M. González',
         cargo: 'Instructor',
         centro:
           'Centro de Diseño e Innovación Tecnológica Industrial - Regional Risaralda',
       },
       {
         nombre: 'Carolina Coca Salazar',
-        cargo: 'Revisora Metodológica y Pedagógica',
+        cargo: 'Revisora metodológica y pedagógica',
         centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
       },
       {
         nombre: 'Vilma Lucía Perilla Méndez',
-        cargo: 'Diseñador Instruccional',
+        cargo: 'Diseñadora instruccional',
         centro: 'Centro de Gestión Industrial - Regional Bogotá',
       },
 
       {
         nombre: 'María Cristina Hurtado Zúñiga',
-        cargo: 'Experta Temática',
+        cargo: 'Experta temática',
         centro:
           'Centro de Diseño Tecnológico Industrial (DCTI) - Regional Valle',
       },
       {
         nombre: 'Zvi Daniel Grosman',
-        cargo: 'Diseñador Instruccional',
+        cargo: 'Diseñador instruccional',
         centro: 'Centro Agropecuario La Granja – Regional Tolima',
       },
       {
@@ -309,8 +310,14 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
+        nombre: 'Andrés Mauricio Santaella ochoa',
+        cargo: 'Soporte front-end',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
         nombre: 'Jorge Leonardo Camacho Pardo',
-        cargo: 'Desarrollo Front-End',
+        cargo: 'Desarrollo front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
@@ -363,7 +370,7 @@ export default {
         centro: 'Centro de Comercio y Servicios -  Regional Tolima',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Jenny Paola Montillo Gélvez',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',

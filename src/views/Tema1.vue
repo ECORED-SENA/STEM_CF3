@@ -16,7 +16,7 @@
           .bloque-texto-e__texto
             i.img-c.fas.fa-quote-left.text-center
             br
-            p.img-c.text-center.text-white.tt <b> De acuerdo con la Universidad Abierta de Catalunya (2020) se define Capital humano como:</b> “Las capacidades, la experiencia, las destrezas y habilidades que tienen los empleados de una organización y que les permite solucionar las necesidades y problemas de los clientes” 
+            p.img-c.text-center.text-white.tt <b> De acuerdo con la Universidad Abierta de Catalunya (2020) se define Capital humano como:</b> “Las capacidades, la experiencia, las destrezas y habilidades que tienen los empleados de una organización y que les permite solucionar las necesidades y problemas de los clientes”. 
             br
             i.fas.fa-quote-right.text-center.img-c
 
@@ -27,7 +27,7 @@
           img.img-300(src='@/assets/tema1/img-1.svg')
 
     #t_1_1.titulo-segundo
-      h2 1.1	Identificación del Capital Humano
+      h2 1.1	Identificación del capital humano
     .row.fondo-ii  
 
       .row.mb-5.justify-content-around.py-5(data-aos="flip-right")
@@ -36,10 +36,10 @@
             img.img-380(src='@/assets/tema1/img-2.svg')
         .col-lg-8.align-self-center.px-2.tt1
           .cajon.color-secundario.p-4.mb-4.fnd-4
-            p El Capital humano como un elemento fundamental de la organización debe ser formado y acompañado para alcanzar altos niveles de competitividad que permitan el crecimiento de las organizaciones.  Para esto es fundamental la identificación de las competencias y habilidades para generar las sinergias necesarias para el desarrollo integral de la organización.
-          p.text-white  Dentro de las principales actividades de la administración del capital humano se encuentran los procesos de convocatoria, selección a través de evaluaciones y apreciaciones que permiten identificar los trabajadores que de manera integral cuentan con un desarrollo de competencias, conocimientos y habilidades que le permitan integrarse de manera efectiva a las organizaciones, otros de los procesos es la capacitación y actualización del uso y manejo de herramientas técnicas y tecnologías que unido a las capacitaciones de las habilidades blandas y la experiencia individual y colectiva, conllevan a una cultura organizacional diferenciada y el desarrollo y la gestión del conocimiento en las organizaciones.    
+            p El capital humano como un elemento fundamental de la organización debe ser formado y acompañado para alcanzar altos niveles de competitividad que permitan el crecimiento de las organizaciones.  Para esto es fundamental la identificación de las competencias y habilidades para generar las sinergias necesarias para el desarrollo integral de la organización.
+          p.text-white  Dentro de las principales actividades de la administración del capital humano se encuentran los procesos de convocatoria, selección a través de evaluaciones y apreciaciones que permiten identificar los trabajadores que de manera integral cuentan con un desarrollo de competencias, conocimientos y habilidades que le permitan integrarse de manera efectiva a las organizaciones, otro de los procesos es la capacitación y actualización del uso y manejo de herramientas técnicas y tecnologías que unido a las capacitaciones de las habilidades blandas y la experiencia individual y colectiva, conllevan a una cultura organizacional diferenciada y el desarrollo y la gestión del conocimiento en las organizaciones.    
 
-      p A continuación, se presenta algunos de los aspectos más destacados de la gestión de conocimiento centrado en el capital humano: 
+      p A continuación, se presenta algunos de los aspectos más destacados de la gestión de <b>conocimiento centrado en el capital</b> humano: 
     .row.degra1
       PasosA.color-acento-contenido.mb-5(tipo="n")
         .row
@@ -95,7 +95,7 @@
     .row.fnd-2.align-self-center
       .col-md-6.p-4.align-self-center
 
-        p Cuando se habla del cierre de las brechas de capital humano se debe observar las capacidades institucionales que pueda ofrecer un Estado para facilitar a sus ciudadanos el acceso a la formación, a través del uso y mediación de un adecuado sistema de comunicaciones autónomo y democrático para todos los ciudadanos que lo conforman, que logre estimular el deseo de la autoformación.  Una Nación y su capacidad de desarrollo es medida a través del grado de avance a nivel social y tecnológico, al demostrar la capacidad que tiene para formar científicos, doctores y maestros, que brinden su conocimiento a los grandes centros de innovación y creatividad en la producción de conocimiento científico.
+        p Cuando se habla del cierre de las brechas de capital humano se debe observar las capacidades institucionales que pueda ofrecer un Estado para facilitar a sus ciudadanos el acceso a la formación, a través del uso y mediación de un adecuado sistema de comunicaciones autónomo y democrático para todos los ciudadanos que lo conforman, que logre estimular el deseo de la autoformación.  Una nación y su capacidad de desarrollo es medida a través del grado de avance a nivel social y tecnológico, al demostrar la capacidad que tiene para formar científicos, doctores y maestros, que brinden su conocimiento a los grandes centros de innovación y creatividad en la producción de conocimiento científico.
     
       .col-md-6.px-4.align-self-center
         figure
@@ -109,7 +109,7 @@
               
           .col-md-6.align-self-center
 
-            p.mb-5  Es evidente que el trabajo colaborativo mediado por el uso de la tecnología ha permitido a los ciudadanos de manera colectiva aportar a la solución de problemas de la sociedad, los altos costos para acceder, permanecer y culminar estudios superiores, hace cada vez más reducido el recurso humano especializado, siendo el acceso a la formación adecuada y que corresponda con las exigencias del siglo XXI, constituye el principal obstáculo para las personas.  La desigualdad pesa mucho en las posibilidades para acceder a formarse. La escuela tradicional apenas comienza a modificar los currículos y las metodologías de enseñanza aprendizaje para responder a los nuevos contextos. Por todo lo anterior es claro que se debe continuar reformulando, en mayor parte por el Estado, la manera en que se ha venido ejecutando el cierre de esta brecha hasta el día de hoy. 
+            p.mb-5  Es evidente que el trabajo colaborativo mediado por el uso de la tecnología ha permitido a los ciudadanos de manera colectiva aportar a la solución de problemas de la sociedad. Los altos costos para acceder, permanecer y culminar estudios superiores, hace cada vez más reducido el recurso humano especializado que tiene acceso a una formación adecuada que corresponda a las exigencias del siglo XXI, constituyendo el principal obstáculo para muchas personas.  La desigualdad pesa mucho en las posibilidades para acceder a formarse. La escuela tradicional apenas comienza a modificar los currículos y las metodologías de enseñanza aprendizaje para responder a los nuevos contextos. Por todo lo anterior es claro que se debe continuar reformulando, en mayor parte por el Estado, la manera en que se ha venido ejecutando el cierre de esta brecha hasta el día de hoy. 
 
 
 

@@ -9,7 +9,7 @@
       h1 Educación para el siglo XXI
     .row.mb-5.fnd-5.justify-content-around.align-items-center(data-aos="flip-up") 
       .col-lg-8.p-5
-        p.text-white En la actualidad del siglo XXI se vive en un mundo hiperconectado con diversos y grandes problemas que a veces parece no se logran resolver; sin embargo, el avance y desarrollo de la ciencia y tecnología dejan cada vez más sorprendida a la humanidad, ya que se abren nuevas formas y horizontes para interactuar en la sociedad, dentro de los grandes desarrollos que en la actualidad se presentan están los viajes interplanetarios a marte, la posibilidad de abandonar los combustibles fósiles con las energías limpias que no sigan contaminando el planeta y la gran oportunidad de tener una sociedad cada vez más interconectada y existen muchos otros desarrollos de innovación y creatividad que podríamos mencionar, pero lo más importante para este nuevo siglo XXI, son las nuevas generaciones de ciudadanos que debemos preparar para una sociedad que cumpla con los 17 objetivos de desarrollo sostenible.
+        p.text-white En la actualidad del siglo XXI se vive en un mundo hiperconectado con diversos y grandes problemas que a veces parece no se logran resolver; sin embargo, el avance y desarrollo de la ciencia y tecnología dejan cada vez más sorprendida a la humanidad, ya que se abren nuevas formas y horizontes para interactuar en la sociedad, dentro de los grandes desarrollos que en la actualidad se presentan están los viajes interplanetarios a Marte, la posibilidad de abandonar los combustibles fósiles con las energías limpias que no sigan contaminando el planeta y la gran oportunidad de tener una sociedad cada vez más interconectada y existen muchos otros desarrollos de innovación y creatividad que podríamos mencionar, pero lo más importante para este nuevo siglo XXI, son las nuevas generaciones de ciudadanos que debemos preparar para una sociedad que cumpla con los 17 objetivos de desarrollo sostenible.
       .col-lg-4
         figure
         img.img-380.mb-md-5(src='@/assets/tema1/img-10.svg')
@@ -22,7 +22,7 @@
             img.img-380(src='@/assets/tema1/img-11.svg')
 
           .col-md-6
-            p  Mejorar el entorno educativo en beneficio de las nuevas generaciones y prepararlos para la nueva sociedad del conocimiento es uno de los grandes desafíos a los que se enfrenta los instructores, ya no basta solo con reconocer los nuevos paradigmas, se debe recurrir a un plan prospectivo de acción a nivel nacional que permita al sistema educativo que amerita un análisis profundo, para incursionar en nuevos enfoques y metodologías de enseñanza aprendizaje del futuro.
+            p  Mejorar el entorno educativo en beneficio de las nuevas generaciones y prepararlas para la nueva sociedad del conocimiento es uno de los grandes desafíos a los que se enfrentan los instructores. Ya no basta solo con reconocer los nuevos paradigmas, se debe recurrir a un plan prospectivo de acción a nivel nacional que permita analizar de forma profunda el sistema educativo, para incursionar en nuevos enfoques y metodologías de enseñanza del aprendizaje del futuro.
 
             p #[span(style="background-color: #E6ECF7 !important") Por eso el llamado a la educación es derribar sus viejos paradigmas e incursionar en nuevas formas de la mano de la tecnología para mejorar su pedagogía,] didáctica, sus metodologías y sus formas de ver y comprender el mundo como una misión en el siglo XXI, brindar satisfactores a las necesidades del hombre. 
 
@@ -46,7 +46,7 @@
 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/E7-BaX6ox9s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/56fWWgoPxI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     br    
     #t_2_1.titulo-segundo
       h2 2.1  Definición del nuevo entorno mundial y la supervivencia humana
@@ -58,7 +58,9 @@
       .col-lg-8.align-self-center.px-5.py-4
 
         p El planeta tierra se ha venido transformando desde hace miles de años hasta convertirse en el hábitat de todas las especies existentes, con el avance de la ciencia y la tecnología los científicos han logrado perfeccionar los escenarios de la evolución y crecimiento de la humanidad de manera que han logrado de correlacionar los cambios significativos que ha venido sufriendo el medio ambiente y su clima, los que para este siglo XXI, se ha determinado afectan su continuidad.
-        p El científico Johan (Rockstrom, 2009) director, Potsdam Institute for Climate Impact Research (PIK) desarrolló en su estudio doctoral, a raíz de la Covid-19, el “comprender que algo malo que pase en algún país, afecta a toda la humanidad de la misma manera”; postulando que la vida del planeta depende de todos en conjunto y no de algunos pocos, y que el aporte de todos importa en alto grado para lograr sostener el mundo como hasta ahora lo hemos conocido, las decisiones que en materia económica, tecnológica y social se tomen afectaran los próximos veinticinco (25) años, a la sociedad como hasta ahora se conoce, ver figura 1. 
+        p El científico Johan (Rockstrom, 2009), director del <em>Potsdam Institute for Climate Impact Research</em>  (PIK) desarrolló en su estudio doctoral, a raíz de la Covid-19, el 
+          span.ett “comprender que algo malo que pase en algún país, afecta a toda la humanidad de la misma manera”;  
+          | postulando que la vida del planeta depende de todos en conjunto y no de algunos pocos, y que el aporte de todos importa en alto grado para lograr sostener el mundo como hasta ahora lo hemos conocido, las decisiones que en materia económica, tecnológica y social se tomen, afectarán los próximos veinticinco (25) años a la sociedad como hasta ahora se conoce, ver figura. 
     .row.justify-content-around.align-items-center.py-5
       .col-lg-8
         .row
@@ -82,7 +84,7 @@
           .bloque-texto-e.p-4
             .bloque-texto-e__texto
               i.fas.fa-quote-left
-              p.text-white El doctor Rockstrom expresa que todo los seres vivos del planeta están interconectados, y aclara que la tierra no es infinita en recursos naturales como se pensaba en siglos anteriores y tiene unos límites planetarios que enmarca en nueve conceptos: la integridad de la biosfera, el ciclo biogeoquímico, los cambios en el sistema de las tierras, el uso del agua dulce, la acidificación de los océanos, el agotamiento del ozono estratosférico, cambio climático, entre otras entidades tecnológicas nuevas que puedan aparecer, todos estos límites hacen relevancia a las diferentes incidencias del ser humano en el planeta afectándolo y que describe que al llegar a sobrepasar estos umbrales cambiarían de forma drástica el desarrollo y la vida en el planeta y por lo tanto la permanencia de la sociedad humana. 
+              p.text-white El doctor Rockstrom expresa que todos los seres vivos del planeta están interconectados, y aclara que la tierra no es infinita en recursos naturales como se pensaba en siglos anteriores y tiene unos límites planetarios que enmarca en nueve conceptos: la integridad de la biosfera, el ciclo biogeoquímico, los cambios en el sistema de las tierras, el uso del agua dulce, la acidificación de los océanos, el agotamiento del ozono estratosférico, cambio climático, entre otras entidades tecnológicas nuevas que puedan aparecer, todos estos límites hacen relevancia a las diferentes incidencias del ser humano en el planeta afectándolo y que describe que al llegar a sobrepasar estos umbrales cambiarían de forma drástica el desarrollo y la vida en el planeta y por lo tanto la permanencia de la sociedad humana. 
               i.fas.fa-quote-right
             .row.align-items-end
 
@@ -108,7 +110,8 @@
       .col-lg-10
         .row.mb-5
           .col-lg-8.align-self-center
-            p Con la pandemia covid-19 y la llegada de las nuevas tecnologías el entorno laboral ha cambiado, siendo el sistema de comunicaciones de la internet el principal artefacto de conexión planetario para desarrollar las actividades laborales, las profesiones tradicionales se han transformado y nuevas han surgido, el teletrabajo y la automatización de actividades, ha fortalecido como una antes el desarrollo de las Tecnologías de la Comunicación y Información, el pronóstico que se tenía previsto de transformación de algunas carreras y la desaparición de otras es ahora una realidad, la telemedicina, la aulas virtuales, entre otras exige ahora que los diversos empleados aprendan nuevos conocimientos para el desarrollo de sus profesiones asistidas por máquinas y robot, esto genera una gran motivación en las personas de continuar capacitándose de manera continua para seguir ampliando sus conocimientos y no perder vigencia en el mercado laboral.
+            p Con la pandemia covid-19 y la llegada de las nuevas tecnologías el entorno laboral ha cambiado, siendo el sistema de comunicaciones de la internet el principal artefacto de conexión planetario para desarrollar las actividades laborales, las profesiones tradicionales se han transformado y nuevas han surgido, el teletrabajo y la automatización de actividades, ha fortalecido como nunca antes el desarrollo de las Tecnologías de la Comunicación e Información, el pronóstico que se tenía previsto de transformación de algunas carreras y la desaparición de otras es ahora una realidad, la telemedicina, las aulas virtuales, entre otras, exige ahora que los diversos empleados aprendan nuevos conocimientos para el desarrollo de sus profesiones asistidas por máquinas y robots, esto
+              span.ett genera una gran motivación en las personas de continuar capacitándose de manera continua para seguir ampliando sus conocimientos y no perder vigencia en el mercado laboral.
           .col-lg-4.mb-4.mb-md-6.align-self-center
             figure
               img.img-300(src='@/assets/tema1/img-18.svg')
@@ -140,7 +143,7 @@
 
         .row
           .col-md-6.mb-4.mb-md-0.ttt
-            p.text-white El hombre capaz de crear conocimiento tiene la posibilidad de comprender los cambios que requiere hacer para realizar lo que desee alcanzar mediante la innovación, tomado como instrumento la ciencia y la tecnología. De acuerdo con estas premisas, la innovación es uno de los instrumentos más potentes de la modernización, la cual debe ser la mediadora entre los ciudadanos que crean y gestionan el conocimiento y los ciudadanos que los consumen y reciben asistencia tecnología para el desarrollo de sus labores manuales, artesanales o técnicas, en la sociedad, siendo estos la prioridad para las economías globales, respetando sus espacios ancestrales, sus recursos naturales, su culturas y creencias para el desarrollo armónico y sostenible de la nueva sociedad del conocimiento y la consolidación de una sólida cuarta revolución industrial.
+            p.text-white El hombre capaz de crear conocimiento tiene la posibilidad de comprender los cambios que requiere hacer para realizar lo que desee alcanzar mediante la innovación, tomando como instrumento la ciencia y la tecnología. De acuerdo con estas premisas, la innovación es uno de los instrumentos más potentes de la modernización, la cual debe ser la mediadora entre los ciudadanos que crean y gestionan el conocimiento y los ciudadanos que los consumen y reciben asistencia tecnológica para el desarrollo de sus labores manuales, artesanales o técnicas, en la sociedad, siendo estos la prioridad para las economías globales, respetando sus espacios ancestrales, sus recursos naturales, su culturas y creencias para el desarrollo armónico y sostenible de la nueva sociedad del conocimiento y la consolidación de una sólida cuarta revolución industrial.
 
           .col-md-6
             figure
@@ -149,7 +152,7 @@
     separador
 
     #t_2_3.titulo-segundo
-      h2 2.3  Nuevos ambientes de aprendizaje.        
+      h2 2.3  Nuevos ambientes de aprendizaje        
 
     .bloque-texto-a.b-t-a.degra.color-secundario.p-4.p-md-5.mb-5(data-aos="flip-right") 
       .row.m-0
