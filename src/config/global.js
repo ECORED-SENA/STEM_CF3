@@ -100,8 +100,6 @@ export default {
             titulo: ' La alfabetización en tecnología',
             hash: 't_3_4',
           },
-        
-
           {
             icono: 'far fa-file-alt',
             numero: '3.5',
