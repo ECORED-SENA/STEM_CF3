@@ -176,7 +176,7 @@
 
     separador 
 
-    #t_3_5.titulo-segundo
+    #AAA.titulo-segundo
       h2 3.5  El sentido de alfabetizar en tecnología para la innovación y la creatividad        
     p.mb-5 La formación en tecnología es mucho más que ofrecer una capacitación para manejar artefactos. A continuación, se presentan algunos desafíos que propone la educación en Colombia:
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
