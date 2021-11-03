@@ -28,7 +28,7 @@
 
         p.text-white La tecnología busca resolver problemas y satisfacer necesidades individuales y sociales, transformando el entorno y la naturaleza mediante la utilización racional, crítica y creativa de recursos y conocimientos. Según afirma la Organización para la Cooperación y el Desarrollo Económico – OECD y su Consejo Nacional de Investigación en el año 2002, la mayoría de la gente suele asociar la tecnología simplemente con artefactos como computadoras y <em>software</em>, aviones, pesticidas, plantas de tratamiento de agua, píldoras anticonceptivas y hornos microondas, por mencionar unos pocos ejemplos. Sin embargo, la tecnología es mucho más que sus productos tangibles. Otros aspectos igualmente importantes son el conocimiento y los procesos necesarios para crear y operar esos productos, tales como la ingeniería del saber cómo y el pensamiento de diseño, la experticia de la manufactura y las diversas habilidades técnicas.
         .row.b-w 
-          p National Research Council. Technically speaking: why all Americans need to know more about technology, 2002. 
+          p <em>National Research Council. Technically speaking: why all Americans need to know more about technology, 2002. </em>
 
 
     br
@@ -36,7 +36,7 @@
       .col-lg-8.mb-5.mb-md-0
         p.mb-3 La tecnología incluye, tanto los artefactos tangibles del entorno artificial diseñados por los humanos e intangibles como las organizaciones o los programas de computador. También involucra a las personas, la infraestructura y los procesos requeridos para diseñar, manufacturar, operar y reparar los artefactos.
 
-        LineaTiempoD.color-secundario
+        LineaTiempoD.color-acento-contenido
           p(numero="1" titulo="Los artefactos") Son dispositivos, herramientas, aparatos, instrumentos y máquinas que potencian la acción humana. Se trata entonces, de productos manufacturados percibidos como bienes materiales por la sociedad.
 
           p(numero="2" titulo="Los procesos") Son fases sucesivas de operaciones que permiten la transformación de recursos y situaciones para lograr objetivos y desarrollar productos y servicios esperados. En particular, los procesos tecnológicos contemplan decisiones asociadas a complejas correlaciones entre propósitos, recursos y procedimientos para la obtención de un producto o servicio. Por lo tanto, involucran actividades de diseño, planificación, logística, manufactura, mantenimiento, metrología, evaluación, calidad y control. Los procesos pueden ilustrarse en áreas y grados de complejidad tan diversos como la confección de prendas de vestir y la industria petroquímica.
@@ -176,7 +176,7 @@
 
     separador 
 
-    #t-3_5.titulo-segundo
+    #t_3_5.titulo-segundo
       h2 3.5  El sentido de alfabetizar en tecnología para la innovación y la creatividad        
     p.mb-5 La formación en tecnología es mucho más que ofrecer una capacitación para manejar artefactos. A continuación, se presentan algunos desafíos que propone la educación en Colombia:
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
@@ -200,11 +200,11 @@
               figure
                 img.img-380(src='@/assets/tema1/img-41.png',)
               
-        div(titulo="Pensamiento Crítico")
+        div(titulo="Pensamiento crítico")
           .row
             .col-md-6.mb-4.mb-md-0
               p Desarrollar la reflexión crítica frente a las relaciones entre la tecnología y la sociedad. Como producto cultural, la actividad en ciencia y tecnología tiene efectos para la sociedad y para el entorno y, por consiguiente, es necesario que los individuos participen en su evaluación y control.
-              p De ahí la importancia de educar para la comprensión, la participación y la deliberación, entorno a temas relacionados con la tecnología. 
+              p De ahí la importancia de educar para la comprensión, la participación y la deliberación, en torno a temas relacionados con la tecnología. 
               p Según afirma la OECD (2004), “más allá de proveer información apropiada en respuesta a la incertidumbre y a la conciencia del público” asociada con ciencia y tecnología, la formación de los ciudadanos se debe orientar a incentivar y facilitar el debate público”.
 
 
@@ -233,7 +233,7 @@
           .row.justify-content-end
             .col-lg-12
               .bloque-texto-a__texto.btat.p-4.mb-5
-                p.text-white Finalmente, es importante recordar que la propuesta de alfabetizar en tecnología es buscar interrelacionar las tres dimensiones interdependientes: el conocimiento, las formas de pensar y la capacidad para actuar. La meta entonces de la alfabetización tecnológica es proveer a las personas de herramientas para participar asertivamente en su entorno social de manera fundamentada (National Research Council, 2002). 
+                p.text-white Finalmente, es importante recordar que la propuesta de alfabetizar en tecnología es buscar interrelacionar las tres dimensiones interdependientes: el conocimiento, las formas de pensar y la capacidad para actuar. La meta entonces de la alfabetización tecnológica es proveer a las personas de herramientas para participar asertivamente en su entorno social de manera fundamentada (<em>National Research Council,</em> 2002). 
             .col-lg-10.justify-content-end
               p.mb-3 Esta ruta que propone el gobierno colombiano está directamente relacionada con la educación STEM que busca las asignaturas de ciencia, tecnología con ingeniería y las matemáticas, presentando cambios en la forma en que se debe enseñar más acorde a la forma en que se ve la realidad actual, donde los avances tecnológicos son tan amplios que no se alcanza a asimilar todos los impactos en la sociedad.
 

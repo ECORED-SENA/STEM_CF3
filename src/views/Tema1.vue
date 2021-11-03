@@ -6,7 +6,7 @@
     .titulo-principal(data-aos="flip-up")
       .titulo-principal__numero
         span 1
-      h1 Capital Humano
+      h1 Capital humano
 
     p.mb-5 Se puede observar que es considerado el mayor activo en una empresa debido a que el crecimiento de esta depende en gran medida de su comportamiento y desarrollo, sus aportaciones a la organización son invaluables y repercuten en su total desempeño.
 
@@ -38,9 +38,9 @@
           .cajon.color-secundario.p-4.mb-4.fnd-4
             p El capital humano como un elemento fundamental de la organización debe ser formado y acompañado para alcanzar altos niveles de competitividad que permitan el crecimiento de las organizaciones.  Para esto es fundamental la identificación de las competencias y habilidades para generar las sinergias necesarias para el desarrollo integral de la organización.
           p.text-white  Dentro de las principales actividades de la administración del capital humano se encuentran los procesos de convocatoria, selección a través de evaluaciones y apreciaciones que permiten identificar los trabajadores que de manera integral cuentan con un desarrollo de competencias, conocimientos y habilidades que le permitan integrarse de manera efectiva a las organizaciones, otro de los procesos es la capacitación y actualización del uso y manejo de herramientas técnicas y tecnologías que unido a las capacitaciones de las habilidades blandas y la experiencia individual y colectiva, conllevan a una cultura organizacional diferenciada y el desarrollo y la gestión del conocimiento en las organizaciones.    
-
-      p A continuación, se presenta algunos de los aspectos más destacados de la gestión de <b>conocimiento centrado en el capital</b> humano: 
     .row.degra1
+      p A continuación, se presenta algunos de los aspectos más destacados de la gestión de <b>conocimiento centrado en el capital</b> humano: 
+
       PasosA.color-acento-contenido.mb-5(tipo="n")
         .row
           .col-md-4.mb-4.mb-md-0

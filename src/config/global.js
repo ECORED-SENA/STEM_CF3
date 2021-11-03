@@ -91,13 +91,13 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '3.3',
-            titulo: 'Competencias para educación en Tecnología',
+            titulo: 'Competencias para educación en tecnología',
             hash: 't_3_3',
           },
           {
             icono: 'far fa-file-alt',
             numero: '3.4',
-            titulo: ' La Alfabetización en Tecnología',
+            titulo: ' La alfabetización en tecnología',
             hash: 't_3_4',
           },
 
@@ -224,19 +224,19 @@ export default {
   complementario: [
     {
       texto:
-        'MEN. (2008). ¡Ser competente en Tecnología: una necesidad para el desarrollo!',
+        'MEN. (2008). ¡Ser competente en tecnología: una necesidad para el desarrollo!',
       tipo: 'Cartilla',
       descarga: '/downloads/articles-160915_archivo.pdf',
     },
     {
       texto:
-        'Breaking Boundaries: The Science of Our Planet | Official Trailer | Netflix. [Video]. Youtube.',
+        'Netflix. (2021). <em> Breaking Boundaries: The Science of Our Planet | Official Trailer |</em> Netflix. [Video]. Youtube.',
       tipo: 'Documental',
       link: 'https://youtu.be/Gb6wQtNjblk ',
     },
     {
       texto:
-        'Canal Salesianos S.S.M. (2012) Educación en el siglo XXI. Nuevas necesidades ¿nuevos retos? [Video]. Youtube.',
+        'Canal Salesianos S.S.M. (2012). Educación en el siglo XXI. Nuevas necesidades ¿nuevos retos? [Video]. Youtube.',
       tipo: 'Video',
       link: 'https://youtu.be/L6MNTXi82GM',
     },
@@ -310,7 +310,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Andrés Mauricio Santaella ochoa',
+        nombre: 'Andrés Mauricio Santaella Ochoa',
         cargo: 'Soporte front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
@@ -380,7 +380,7 @@ export default {
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
     ],
   },
