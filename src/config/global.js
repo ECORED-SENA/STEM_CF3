@@ -104,10 +104,10 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '3.5',
-            titulo:
-              'El sentido de alfabetizar en tecnología para la innovación y la creatividad',
+            titulo: ' El sentido de alfabetizar en tecnología para la innovación y la creatividad',
             hash: 't_3_5',
-          },
+          },          
+
         ],
       },
     ],
