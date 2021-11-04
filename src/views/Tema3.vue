@@ -28,7 +28,7 @@
 
         p.text-white La tecnología busca resolver problemas y satisfacer necesidades individuales y sociales, transformando el entorno y la naturaleza mediante la utilización racional, crítica y creativa de recursos y conocimientos. Según afirma la Organización para la Cooperación y el Desarrollo Económico – OECD y su Consejo Nacional de Investigación en el año 2002, la mayoría de la gente suele asociar la tecnología simplemente con artefactos como computadoras y <em>software</em>, aviones, pesticidas, plantas de tratamiento de agua, píldoras anticonceptivas y hornos microondas, por mencionar unos pocos ejemplos. Sin embargo, la tecnología es mucho más que sus productos tangibles. Otros aspectos igualmente importantes son el conocimiento y los procesos necesarios para crear y operar esos productos, tales como la ingeniería del saber cómo y el pensamiento de diseño, la experticia de la manufactura y las diversas habilidades técnicas.
         .row.b-w 
-          p <em>National Research Council. Technically speaking: why all Americans need to know more about technology, 2002. </em>
+           p <em>National Research Council. Technically speaking: why all Americans need to know more about technology, 2002. </em>
 
 
     br
@@ -45,7 +45,6 @@
       .col-lg-4
         figure
           img.img-380(src='@/assets/tema1/img-25.svg')
-
 
 
     separador
@@ -73,6 +72,7 @@
             p.mb-5 Para la educación en tecnología, la informática se configura como herramienta que permite desarrollar proyectos y actividades tales como la búsqueda, la selección, la organización, el almacenamiento, la recuperación y la visualización de información. Así mismo, la simulación, el diseño asistido, la manufactura y el trabajo colaborativo son otras de sus múltiples posibilidades.
           
           separador
+
 
 
     #t_3_3.titulo-segundo
@@ -172,7 +172,7 @@
 
         p.p-4 La alfabetización tecnológica es un propósito inaplazable de la educación porque con ella se busca que individuos y grupos estén en capacidad de comprender, evaluar, usar y transformar objetos, procesos y sistemas tecnológicos, como requisito para su desempeño en la vida social y productiva. En otras palabras, y con el propósito de reiterar su relevancia en la educación, “el desarrollo de actitudes científicas y tecnológicas tiene que ver con las habilidades que son necesarias para enfrentarse a un ambiente que cambia rápidamente y que son útiles para resolver problemas, proponer soluciones y tomar decisiones sobre la vida diaria”.
 
-        p.text-small.px-4 UNESCO. Informe de seguimiento de la educación para todos en el mundo, 2005.        
+        p.text-small.px-4 UNESCO. Informe de seguimiento de la educación para todos en el mundo, 2005.     
 
     separador 
 
@@ -204,7 +204,7 @@
           .row
             .col-md-6.mb-4.mb-md-0
               p Desarrollar la reflexión crítica frente a las relaciones entre la tecnología y la sociedad. Como producto cultural, la actividad en ciencia y tecnología tiene efectos para la sociedad y para el entorno y, por consiguiente, es necesario que los individuos participen en su evaluación y control.
-              p De ahí la importancia de educar para la comprensión, la participación y la deliberación, en torno a temas relacionados con la tecnología. 
+              p De ahí la importancia de educar para la comprensión, la participación y la deliberación, en torno a temas relacionados con la tecnología.
               p Según afirma la OECD (2004), “más allá de proveer información apropiada en respuesta a la incertidumbre y a la conciencia del público” asociada con ciencia y tecnología, la formación de los ciudadanos se debe orientar a incentivar y facilitar el debate público”.
 
 
@@ -222,7 +222,7 @@
                 img.img-380(src='@/assets/tema1/img-43.png',)
     br
 
-
+     
 
     .bloque-texto-a.b-t-a.degra.color-secundario.mb-5(data-aos="flip-right") 
       .row.m-0.align-items-center.justify-content-between
@@ -233,8 +233,8 @@
           .row.justify-content-end
             .col-lg-12
               .bloque-texto-a__texto.btat.p-4.mb-5
-                p.text-white Finalmente, es importante recordar que la propuesta de alfabetizar en tecnología es buscar interrelacionar las tres dimensiones interdependientes: el conocimiento, las formas de pensar y la capacidad para actuar. La meta entonces de la alfabetización tecnológica es proveer a las personas de herramientas para participar asertivamente en su entorno social de manera fundamentada (<em>National Research Council,</em> 2002). 
-            .col-lg-10.justify-content-end
+                p.text-white Finalmente, es importante recordar que la propuesta de alfabetizar en tecnología es buscar interrelacionar las tres dimensiones interdependientes: el conocimiento, las formas de pensar y la capacidad para actuar. La meta entonces de la alfabetización tecnológica es proveer a las personas de herramientas para participar asertivamente en su entorno social de manera fundamentada (<em>National Research Council,</em> 2002).        
+            .col-lg-10.justify-content-end.fnd-cb
               p.mb-3 Esta ruta que propone el gobierno colombiano está directamente relacionada con la educación STEM que busca las asignaturas de ciencia, tecnología con ingeniería y las matemáticas, presentando cambios en la forma en que se debe enseñar más acorde a la forma en que se ve la realidad actual, donde los avances tecnológicos son tan amplios que no se alcanza a asimilar todos los impactos en la sociedad.
 
 

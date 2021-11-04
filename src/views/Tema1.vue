@@ -28,21 +28,21 @@
 
     #t_1_1.titulo-segundo
       h2 1.1	Identificación del capital humano
-
     .row.fondo-ii 
 
-      .row.mb-3.justify-content-around.py-5(data-aos="flip-right")
-        .col-lg-4      
+      .row.mb-5.mb-sm-1.justify-content-around.py-5(data-aos="flip-right")
+        .col-lg-4.mb-5.mb-sm-1      
           figure
             img.img-380(src='@/assets/tema1/img-2.svg')
         .col-lg-8.align-self-center.px-2.tt1
           .cajon.color-secundario.p-4.mb-4.fnd-4
             p El capital humano como un elemento fundamental de la organización debe ser formado y acompañado para alcanzar altos niveles de competitividad que permitan el crecimiento de las organizaciones.  Para esto es fundamental la identificación de las competencias y habilidades para generar las sinergias necesarias para el desarrollo integral de la organización.
-          p.text-white  Dentro de las principales actividades de la administración del capital humano se encuentran los procesos de convocatoria, selección a través de evaluaciones y apreciaciones que permiten identificar los trabajadores que de manera integral cuentan con un desarrollo de competencias, conocimientos y habilidades que le permitan integrarse de manera efectiva a las organizaciones, otro de los procesos es la capacitación y actualización del uso y manejo de herramientas técnicas y tecnologías que unido a las capacitaciones de las habilidades blandas y la experiencia individual y colectiva, conllevan a una cultura organizacional diferenciada y el desarrollo y la gestión del conocimiento en las organizaciones.    
+          p.text-white  Dentro de las principales actividades de la administración del capital humano se encuentran los procesos de convocatoria, selección a través de evaluaciones y apreciaciones que permiten identificar los trabajadores que de manera integral cuentan con un desarrollo de competencias, conocimientos y habilidades que le permitan integrarse de manera efectiva a las organizaciones, otros de los procesos es la capacitación y actualización del uso y manejo de herramientas técnicas y tecnologías que unido a las capacitaciones de las habilidades blandas y la experiencia individual y colectiva, conllevan a una cultura organizacional diferenciada y el desarrollo y la gestión del conocimiento en las organizaciones.    
+    
+
+      p.t-b1 A continuación, se presenta algunos de los aspectos más destacados de la gestión de <b>conocimiento centrado en el capital</b> humano: 
     .row.degra1
       br
-      p A continuación, se presenta algunos de los aspectos más destacados de la gestión de <b>conocimiento centrado en el capital</b> humano: 
-
       PasosA.color-acento-contenido.mb-5(tipo="n")
         .row
           .col-md-4.mb-4.mb-md-0
