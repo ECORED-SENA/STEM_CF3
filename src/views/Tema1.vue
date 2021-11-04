@@ -40,7 +40,7 @@
           p.text-white  Dentro de las principales actividades de la administración del capital humano se encuentran los procesos de convocatoria, selección a través de evaluaciones y apreciaciones que permiten identificar los trabajadores que de manera integral cuentan con un desarrollo de competencias, conocimientos y habilidades que le permitan integrarse de manera efectiva a las organizaciones, otros de los procesos es la capacitación y actualización del uso y manejo de herramientas técnicas y tecnologías que unido a las capacitaciones de las habilidades blandas y la experiencia individual y colectiva, conllevan a una cultura organizacional diferenciada y el desarrollo y la gestión del conocimiento en las organizaciones.    
     
 
-      p.t-b1 A continuación, se presenta algunos de los aspectos más destacados de la gestión de <b>conocimiento centrado en el capital</b> humano: 
+      p.t-b1.pt-5 A continuación, se presenta algunos de los aspectos más destacados de la gestión de <b>conocimiento centrado en el capital</b> humano: 
     .row.degra1
       br
       PasosA.color-acento-contenido.mb-5(tipo="n")
