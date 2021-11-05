@@ -145,7 +145,7 @@
                     | La valoración social que el estudiante hace de la tecnología para reconocer el potencial de los recursos, la evaluación de los procesos y el análisis de sus impactos (sociales, ambientales y culturales) así como sus causas y consecuencias.
                   li 
                     .lista-ol--cuadro__vineta
-                      span 2
+                      span 3
                     | La participación social que involucra temas como la ética y responsabilidad social, la comunicación, la interacción social, las propuestas de soluciones y la participación, entre otras.
 
             
