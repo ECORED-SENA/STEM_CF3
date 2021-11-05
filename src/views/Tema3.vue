@@ -7,12 +7,12 @@
       .titulo-principal__numero
         span 3
       h1 La tecnología y las habilidades para la sociedad del conocimiento
-    .row.justify-content-around.align-items-center.py-5
+    .row.justify-content-around.align-items-center
       .col-lg-10
         .row.mb-5 
           .col-lg-6
             p En Colombia en el año 2008 el Ministerio de Educación Nacional estableció una serie de guías para la educación inicial, básica y media, para el caso de las habilidades digitales, presenta la guía No. 30 Ser competente en Tecnología ¡Una necesidad para el desarrollo!, la cual presenta una serie de orientaciones a los maestros y maestras que buscan motivar a los estudiantes en la comprensión y apropiación de la tecnología, desde las relaciones que establecen los seres humanos, para enfrentar los problemas y desde sus capacidades resolverlos a través de la invención y con el fin de estimular su creatividad. Esta es una de muchas otras acciones que se están realizando en el país y en la región.
-          .col-lg-6.mb-4.mb-md-5
+          .col-lg-6.mb-4.m-lg-0
             figure
             img.img-300(src='@/assets/tema1/img-23.svg')
 
@@ -28,7 +28,7 @@
 
         p.text-white La tecnología busca resolver problemas y satisfacer necesidades individuales y sociales, transformando el entorno y la naturaleza mediante la utilización racional, crítica y creativa de recursos y conocimientos. Según afirma la Organización para la Cooperación y el Desarrollo Económico – OECD y su Consejo Nacional de Investigación en el año 2002, la mayoría de la gente suele asociar la tecnología simplemente con artefactos como computadoras y <em>software</em>, aviones, pesticidas, plantas de tratamiento de agua, píldoras anticonceptivas y hornos microondas, por mencionar unos pocos ejemplos. Sin embargo, la tecnología es mucho más que sus productos tangibles. Otros aspectos igualmente importantes son el conocimiento y los procesos necesarios para crear y operar esos productos, tales como la ingeniería del saber cómo y el pensamiento de diseño, la experticia de la manufactura y las diversas habilidades técnicas.
         .row.b-w 
-           p <em>National Research Council. Technically speaking: why all Americans need to know more about technology, 2002. </em>
+           p.mb-0 <em>National Research Council. Technically speaking: why all Americans need to know more about technology, 2002. </em>
 
 
     br
@@ -60,7 +60,7 @@
       .row.justify-content-around.align-items-center
         .col-lg-10          
           .row.fnd-8.px-5.mb-5
-            p.text-white La informática se refiere al conjunto de conocimientos científicos y tecnológicos que hacen posible el acceso, la búsqueda y el manejo de la información por medio de procesadores. La informática hace parte de un campo más amplio denominado <b>Tecnologías de la Información y la Comunicación (TIC)</b>, entre cuyas manifestaciones cotidianas encontramos la radio, el televisor, el celular, los computadores, las redes y la Internet.
+            p.mb-0.text-white La informática se refiere al conjunto de conocimientos científicos y tecnológicos que hacen posible el acceso, la búsqueda y el manejo de la información por medio de procesadores. La informática hace parte de un campo más amplio denominado <b>Tecnologías de la Información y la Comunicación (TIC)</b>, entre cuyas manifestaciones cotidianas encontramos la radio, el televisor, el celular, los computadores, las redes y la Internet.
           .row.justify-content-around.align-items-center
             .col-lg-10          
               .row
@@ -69,7 +69,7 @@
             
           p.mb-5 La informática constituye uno de los sistemas tecnológicos de mayor incidencia en la transformación de la cultura contemporánea debido a que atraviesa la mayor parte de las actividades humanas. En las instituciones educativas, por ejemplo, a raíz del confinamiento ocasionado por la Covid-19, la informática ganó terreno como área del conocimiento y se ha constituido en una gran oportunidad para la modernización y el mejoramiento de los procesos pedagógicos. 
           .cajon.color-acento-contenido.fnd-4.p-4.mb-4
-            p.mb-5 Para la educación en tecnología, la informática se configura como herramienta que permite desarrollar proyectos y actividades tales como la búsqueda, la selección, la organización, el almacenamiento, la recuperación y la visualización de información. Así mismo, la simulación, el diseño asistido, la manufactura y el trabajo colaborativo son otras de sus múltiples posibilidades.
+            p.mb-0 Para la educación en tecnología, la informática se configura como herramienta que permite desarrollar proyectos y actividades tales como la búsqueda, la selección, la organización, el almacenamiento, la recuperación y la visualización de información. Así mismo, la simulación, el diseño asistido, la manufactura y el trabajo colaborativo son otras de sus múltiples posibilidades.
           
           separador
 
